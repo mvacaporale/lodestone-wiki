@@ -1,0 +1,6 @@
+title: Lodestone
+description: The public slice of Michaelangelo Caporale's knowledge vault — systems thinking, AI alignment, and craft.
+theme: jekyll-theme-primer
+defaults:
+  - scope: {path: ''}
+    values: {layout: default}
