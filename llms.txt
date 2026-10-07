@@ -2,7 +2,7 @@
 
 > The public slice of Michaelangelo Caporale's knowledge vault — systems thinking, AI alignment, and craft.
 
-Notes are the author's own writing, verbatim except privacy redactions. Fetch only the notes relevant to your question rather than loading everything.
+Notes are the author's own writing, verbatim except privacy redactions. Fetch only the notes relevant to your question rather than loading everything. If a note link fails to fetch, use its mirror: https://raw.githubusercontent.com/mvacaporale/lodestone-wiki/main/notes/<slug>.md (same slug as in the failing URL).
 
 ## Notes
 
