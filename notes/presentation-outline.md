@@ -10,7 +10,7 @@ summary: Slide-by-slide talking points for the "Framings on Alignment" talk, ref
 
 # Framings on Alignment — Slide-by-Slide Outline
 
-Talking points for the deck (`Framings on alignment.pptx`), 2–3 bullets/slide. Register: plain-English intuition, minimal jargon.
+Talking points for the deck ([published slides](../slides/framings-on-alignment.pdf)), 2–3 bullets/slide. Register: plain-English intuition, minimal jargon.
 
 ---
 

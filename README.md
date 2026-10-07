@@ -14,6 +14,7 @@ A lodestone is a naturally magnetized stone — the mineral early navigators rub
 
 - **[Start at the wiki index](wiki/index.md)** — LLM-organized topic pages that map the notes and suggest reading orders.
 - **Browse [notes/](notes/)** — the notes themselves, my own writing, verbatim.
+- **Watch the arc as a talk** — the alignment notes began as a presentation; the slides are at [slides/framings-on-alignment.pdf](slides/framings-on-alignment.pdf), with talking points in [Presentation Outline](notes/presentation-outline.md).
 - **Ask an LLM** — give an assistant the raw [`llms.txt`](https://raw.githubusercontent.com/mvacaporale/lodestone-wiki/main/llms.txt) URL: it's a compact index with per-note summaries and fetchable links, so the LLM pulls only the notes your question needs. For small-context situations or whole-corpus questions, [`llms-full.txt`](https://raw.githubusercontent.com/mvacaporale/lodestone-wiki/main/llms-full.txt) is everything in one file.
 
 ## Two voices, never blended
