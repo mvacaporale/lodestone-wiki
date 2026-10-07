@@ -2,6 +2,11 @@
 
 The public slice of my personal knowledge vault — 30 notes on systems thinking, AI alignment, complexity science, and craft, published 2026-10-07.
 
+**Ask an AI about these notes** (opens with the index pre-loaded):
+[Claude](https://claude.ai/new?q=Read%20https%3A%2F%2Fraw.githubusercontent.com%2Fmvacaporale%2Flodestone-wiki%2Fmain%2Fllms.txt%20-%20an%20index%20of%20Michaelangelo%20Caporale%27s%20published%20notes%2C%20each%20with%20a%20one-line%20summary%20and%20a%20fetchable%20link.%20Fetch%20the%20notes%20relevant%20to%20my%20questions%20before%20answering.%20To%20start%3A%20give%20me%20a%20brief%20tour%20of%20the%20collection.) ·
+[ChatGPT](https://chatgpt.com/?q=Read%20https%3A%2F%2Fraw.githubusercontent.com%2Fmvacaporale%2Flodestone-wiki%2Fmain%2Fllms.txt%20-%20an%20index%20of%20Michaelangelo%20Caporale%27s%20published%20notes%2C%20each%20with%20a%20one-line%20summary%20and%20a%20fetchable%20link.%20Fetch%20the%20notes%20relevant%20to%20my%20questions%20before%20answering.%20To%20start%3A%20give%20me%20a%20brief%20tour%20of%20the%20collection.) ·
+[Gemini (AI Mode)](https://www.google.com/search?udm=50&q=Read%20https%3A%2F%2Fraw.githubusercontent.com%2Fmvacaporale%2Flodestone-wiki%2Fmain%2Fllms.txt%20-%20an%20index%20of%20Michaelangelo%20Caporale%27s%20published%20notes%2C%20each%20with%20a%20one-line%20summary%20and%20a%20fetchable%20link.%20Fetch%20the%20notes%20relevant%20to%20my%20questions%20before%20answering.%20To%20start%3A%20give%20me%20a%20brief%20tour%20of%20the%20collection.)
+
 ## Why "Lodestone"
 
 A lodestone is a naturally magnetized stone — the mineral early navigators rubbed their needles against to make the first compasses. My vault is named for the same job: a fixed point that holds orientation, that thinking can be checked against. This wiki is the part of it that points outward.
