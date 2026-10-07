@@ -12,7 +12,7 @@ summary: A sketch of society under AI abundance — contribution-based ~20-hour 
 
 # Society in the Age of AI Abundance
 
-From 2026-07-19 Late-Night Voice Memo Stream (memo 1, ~9pm; pause idea from memo 3). The fullest statement yet of the recurring "what should society look like" question — the form-giver faculty aimed at economics (The Form-Giver Pattern).
+From a late-night voice memo. The fullest statement yet of the recurring "what should society look like" question — the form-giver faculty aimed at economics.
 
 ## The core vision
 
@@ -30,8 +30,7 @@ From 2026-07-19 Late-Night Voice Memo Stream (memo 1, ~9pm; pause idea from memo
 
 ## Threads to pull
 
-- How does this connect to the Roots Problems Essay thesis (misaligned optimization on proxy metrics)? The 20-hour contribution week is arguably a redesigned optimization target.
+- How does this connect to a companion essay's thesis (misaligned optimization on proxy metrics)? The 20-hour contribution week is arguably a redesigned optimization target.
 - Who has worked this out seriously? (UBI vs. contribution-conditioned models, post-scarcity economics, Danielle Allen / participatory frameworks, the degrowth and abundance-agenda literatures.)
 	- *Danielle Allen, looked up 2026-07-23:* Harvard political philosopher; runs the [Allen Lab for Democracy Renovation](https://ash.harvard.edu/centers/allen-lab-for-democracy-renovation/) (HKS) and the GETTING-Plurality network on AI governance. Directly on this note's seam: she frames today as "a historical contest over what framework of political economy is going to define the world as AI transforms it," and her lab argues an economy that "generates abundance while stripping citizens of purpose and dignity undermines the very foundation of democratic life" — i.e. the contribution-not-just-distribution point. Book-length treatment: *Justice by Means of Democracy* ("power-sharing liberalism"). Start: [her Harvard page](https://danielleallen.scholars.harvard.edu/).
 - The relational-core claim (don't replace therapists/teachers) is testable against the alignment probe: what makes a role *intrinsically* human?
-- Related captures: Random Thoughts on AI, Navigating Global Tipping Points Crisis, Inequality, and the Path to Societal Transformation, and the umbrella goal in Reflections & Aphorisms — this note is that goal's economic face.

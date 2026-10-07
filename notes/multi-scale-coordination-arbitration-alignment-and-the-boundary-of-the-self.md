@@ -117,8 +117,4 @@ Levin is the empirical instantiation of nearly this whole arc, plus three genuin
 ## Related
 
 - [Complexity Science — Study Threads](complexity-science-study-threads.md) — Ashby / requisite variety, edge of chaos, belief dynamics
-- The Perils of Misaligned Systems and Goodhart's Law
-- The Elegance of Decentralized Structures
-- Exploration in Complexity Science for Systems Change and Alignment
 - [Society and Systems MOC](society-and-systems-moc.md)
-- _index — the alignment / complexity-science probe

@@ -30,10 +30,8 @@ We build systems that optimize for *proxies* (money, clicks, votes, grades) fast
 
 ### Primary Sources
 - [ChatGPT - Societal Misalignment - Feb 12 2026](chatgpt-societal-misalignment-feb-12-2026.md) — Explores how AI amplifies misalignment and paths toward conscious realignment
-- Roots Problems Essay — Essay draft articulating the core problem and design principles for anti-fragile systems
 
 ### Connected Thinking
-- Claude - AI Alignment and Moral Progress - Feb 12 2026 — AI's role in moral and epistemic progress
 - [Claude - Hunter-Gatherers and Affluence - Feb 18 2026](claude-hunter-gatherers-and-affluence-feb-18-2026.md) — Historical contrast to modern optimization pressures
 
 ---

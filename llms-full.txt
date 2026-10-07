@@ -440,14 +440,6 @@ This is exactly why the **Mastery Transcript Consortium** is built as a _consort
 - DiMaggio & Powell — institutional isomorphism
 - Aikin — _The Story of the Eight-Year Study_
 
-## Links
-
-- Complexity Science MOC
-- Education Systems Change
-- Goodhart's Law
-- Mastery Transcript Consortium
-- Portrait of a Graduate
-
 
 ========================================================================
 ---
@@ -872,13 +864,11 @@ summary: Running list of complexity-science study threads — edge of chaos, sel
 - Ashby's Law of Requisite Variety: to properly control something, the controller must be as complex as the thing it controls
 - Applied to AI: **how many humans does it take to control AI?** At minimum, need a concrete way to *measure the complexity of the controller* — the alignment problem may live there
 - The controller shouldn't be 100% AI ("closing the loop")
-- Study threads: requisite variety formally; existing work on measuring controller complexity; whether anyone in the SFI / alignment orbit (see interview tracker) works this exact seam
+- Study threads: requisite variety formally; existing work on measuring controller complexity; whether anyone in the SFI / alignment orbit works this exact seam
 
 ## Related
 
 - [Multi-Scale Coordination — Arbitration, Alignment, and the Boundary of the Self](multi-scale-coordination-arbitration-alignment-and-the-boundary-of-the-self.md) — developed synthesis: arbiter vs. distributed layer, evolutionary transitions, germ-soma/renunciation, Levin (2026-07-31)
-- Notes from Tipping Out of Trouble — social tipping points / critical transitions
-- _index — the alignment / complexity-science probe
 
 
 ========================================================================
@@ -2055,11 +2045,7 @@ Levin is the empirical instantiation of nearly this whole arc, plus three genuin
 ## Related
 
 - [Complexity Science — Study Threads](complexity-science-study-threads.md) — Ashby / requisite variety, edge of chaos, belief dynamics
-- The Perils of Misaligned Systems and Goodhart's Law
-- The Elegance of Decentralized Structures
-- Exploration in Complexity Science for Systems Change and Alignment
 - [Society and Systems MOC](society-and-systems-moc.md)
-- _index — the alignment / complexity-science probe
 
 
 ========================================================================
@@ -2175,7 +2161,6 @@ if alignment lives in the coupling, you buy it partly by engineering the shared 
 
 **Slide 18 — Einstein Quote (55 min on the problem)**
 - Justifies the shape of the talk: mostly *framing the problem*, little on solutions — deliberately.
-- ⚠️ Placement: this reads like an *opener*. Consider moving it to right after Slide 3 (or using it as the Slide 4 divider). *(decision for you)*
 
 **Slide 19 — [Closing image]**
 
@@ -2285,10 +2270,8 @@ We build systems that optimize for *proxies* (money, clicks, votes, grades) fast
 
 ### Primary Sources
 - [ChatGPT - Societal Misalignment - Feb 12 2026](chatgpt-societal-misalignment-feb-12-2026.md) — Explores how AI amplifies misalignment and paths toward conscious realignment
-- Roots Problems Essay — Essay draft articulating the core problem and design principles for anti-fragile systems
 
 ### Connected Thinking
-- Claude - AI Alignment and Moral Progress - Feb 12 2026 — AI's role in moral and epistemic progress
 - [Claude - Hunter-Gatherers and Affluence - Feb 18 2026](claude-hunter-gatherers-and-affluence-feb-18-2026.md) — Historical contrast to modern optimization pressures
 
 ---
@@ -2377,7 +2360,7 @@ summary: A sketch of society under AI abundance — contribution-based ~20-hour 
 
 # Society in the Age of AI Abundance
 
-From 2026-07-19 Late-Night Voice Memo Stream (memo 1, ~9pm; pause idea from memo 3). The fullest statement yet of the recurring "what should society look like" question — the form-giver faculty aimed at economics (The Form-Giver Pattern).
+From a late-night voice memo. The fullest statement yet of the recurring "what should society look like" question — the form-giver faculty aimed at economics.
 
 ## The core vision
 
@@ -2395,11 +2378,10 @@ From 2026-07-19 Late-Night Voice Memo Stream (memo 1, ~9pm; pause idea from memo
 
 ## Threads to pull
 
-- How does this connect to the Roots Problems Essay thesis (misaligned optimization on proxy metrics)? The 20-hour contribution week is arguably a redesigned optimization target.
+- How does this connect to a companion essay's thesis (misaligned optimization on proxy metrics)? The 20-hour contribution week is arguably a redesigned optimization target.
 - Who has worked this out seriously? (UBI vs. contribution-conditioned models, post-scarcity economics, Danielle Allen / participatory frameworks, the degrowth and abundance-agenda literatures.)
 	- *Danielle Allen, looked up 2026-07-23:* Harvard political philosopher; runs the [Allen Lab for Democracy Renovation](https://ash.harvard.edu/centers/allen-lab-for-democracy-renovation/) (HKS) and the GETTING-Plurality network on AI governance. Directly on this note's seam: she frames today as "a historical contest over what framework of political economy is going to define the world as AI transforms it," and her lab argues an economy that "generates abundance while stripping citizens of purpose and dignity undermines the very foundation of democratic life" — i.e. the contribution-not-just-distribution point. Book-length treatment: *Justice by Means of Democracy* ("power-sharing liberalism"). Start: [her Harvard page](https://danielleallen.scholars.harvard.edu/).
 - The relational-core claim (don't replace therapists/teachers) is testable against the alignment probe: what makes a role *intrinsically* human?
-- Related captures: Random Thoughts on AI, Navigating Global Tipping Points Crisis, Inequality, and the Path to Societal Transformation, and the umbrella goal in Reflections & Aphorisms — this note is that goal's economic face.
 
 
 ========================================================================
@@ -2448,11 +2430,6 @@ One protected 2–3 hour block on the single task. The uninterrupted stretch is 
 It rejects volume-based productivity. The failure mode isn't laziness; it's a long list of legitimately important tasks that diffuses focus so nothing lands. This process forces a single point of concentration on the item with the most leverage, and protects the conditions for actually doing it.
 
 Pairs with the Compass formula: *Results = clarity × concentration + uninterrupted time.*
-
-## Related
-
-- Compass — operating priorities and accountability questions
-- Growth Priorities — July 2026 — where the "highest-leverage, not most-tasks" logic gets applied to the growth buckets
 
 
 ========================================================================

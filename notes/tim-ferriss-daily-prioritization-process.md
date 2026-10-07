@@ -43,8 +43,3 @@ One protected 2–3 hour block on the single task. The uninterrupted stretch is 
 It rejects volume-based productivity. The failure mode isn't laziness; it's a long list of legitimately important tasks that diffuses focus so nothing lands. This process forces a single point of concentration on the item with the most leverage, and protects the conditions for actually doing it.
 
 Pairs with the Compass formula: *Results = clarity × concentration + uninterrupted time.*
-
-## Related
-
-- Compass — operating priorities and accountability questions
-- Growth Priorities — July 2026 — where the "highest-leverage, not most-tasks" logic gets applied to the growth buckets

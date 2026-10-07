@@ -28,10 +28,8 @@ summary: Running list of complexity-science study threads — edge of chaos, sel
 - Ashby's Law of Requisite Variety: to properly control something, the controller must be as complex as the thing it controls
 - Applied to AI: **how many humans does it take to control AI?** At minimum, need a concrete way to *measure the complexity of the controller* — the alignment problem may live there
 - The controller shouldn't be 100% AI ("closing the loop")
-- Study threads: requisite variety formally; existing work on measuring controller complexity; whether anyone in the SFI / alignment orbit (see interview tracker) works this exact seam
+- Study threads: requisite variety formally; existing work on measuring controller complexity; whether anyone in the SFI / alignment orbit works this exact seam
 
 ## Related
 
 - [Multi-Scale Coordination — Arbitration, Alignment, and the Boundary of the Self](multi-scale-coordination-arbitration-alignment-and-the-boundary-of-the-self.md) — developed synthesis: arbiter vs. distributed layer, evolutionary transitions, germ-soma/renunciation, Levin (2026-07-31)
-- Notes from Tipping Out of Trouble — social tipping points / critical transitions
-- _index — the alignment / complexity-science probe

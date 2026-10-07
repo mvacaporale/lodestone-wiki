@@ -110,7 +110,6 @@ if alignment lives in the coupling, you buy it partly by engineering the shared 
 
 **Slide 18 — Einstein Quote (55 min on the problem)**
 - Justifies the shape of the talk: mostly *framing the problem*, little on solutions — deliberately.
-- ⚠️ Placement: this reads like an *opener*. Consider moving it to right after Slide 3 (or using it as the Slide 4 divider). *(decision for you)*
 
 **Slide 19 — [Closing image]**
 
