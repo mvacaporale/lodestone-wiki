@@ -1,6 +1,6 @@
 # Lodestone — llms-full.txt
 The public slice of Michaelangelo Caporale's knowledge vault — systems thinking, AI alignment, and craft.
-Built 2026-10-06 from 30 published notes. Notes are the author's own writing, verbatim except privacy redactions. Pages under wiki/ are LLM-organized navigation.
+Built 2026-10-07 from 30 published notes. Notes are the author's own writing, verbatim except privacy redactions. Pages under wiki/ are LLM-organized navigation.
 
 
 ========================================================================

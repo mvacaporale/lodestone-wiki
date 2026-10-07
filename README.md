@@ -1,6 +1,6 @@
 # Lodestone
 
-The public slice of my personal knowledge vault — 30 notes on systems thinking, AI alignment, complexity science, and craft, published 2026-10-06.
+The public slice of my personal knowledge vault — 30 notes on systems thinking, AI alignment, complexity science, and craft, published 2026-10-07.
 
 ## Why "Lodestone"
 
@@ -10,7 +10,7 @@ A lodestone is a naturally magnetized stone — the mineral early navigators rub
 
 - **[Start at the wiki index](wiki/index.md)** — LLM-organized topic pages that map the notes and suggest reading orders.
 - **Browse [notes/](notes/)** — the notes themselves, my own writing, verbatim.
-- **Ask an LLM** — paste the raw [`llms-full.txt`](https://raw.githubusercontent.com/mvacaporale/lodestone-wiki/main/llms-full.txt) URL into Claude, ChatGPT, or any assistant and ask it questions about all of this at once.
+- **Ask an LLM** — give an assistant the raw [`llms.txt`](https://raw.githubusercontent.com/mvacaporale/lodestone-wiki/main/llms.txt) URL: it's a compact index with per-note summaries and fetchable links, so the LLM pulls only the notes your question needs. For small-context situations or whole-corpus questions, [`llms-full.txt`](https://raw.githubusercontent.com/mvacaporale/lodestone-wiki/main/llms-full.txt) is everything in one file.
 
 ## Two voices, never blended
 
@@ -26,4 +26,4 @@ Also from the same vault: a [weekly digest](https://github.com/mvacaporale/weekl
 
 ---
 
-Content © Michaelangelo Caporale. Wiki organization pages are machine-generated from that content.
+Licensed under [CC BY-NC 4.0](LICENSE.md) — share and remix with attribution, non-commercial use only. Wiki organization pages are machine-generated from the notes.

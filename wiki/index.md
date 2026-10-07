@@ -25,5 +25,5 @@ Start with **[The Alignment Arc](alignment-as-coupling.md)** — it's the most d
 
 ## Querying and following along
 
-- The entire corpus is concatenated into [`llms-full.txt`](../llms-full.txt) — point any LLM at that one file and ask questions about all of it.
+- LLMs should start from [`llms.txt`](../llms.txt) — an index with per-note summaries and fetchable links, so only the relevant notes get loaded. The entire corpus is also concatenated into [`llms-full.txt`](../llms-full.txt) for one-file querying.
 - The author also publishes a **weekly digest** of new material, linked from the [README](../README.md).
