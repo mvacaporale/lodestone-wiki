@@ -2,7 +2,7 @@
 
 > The public slice of Michaelangelo Caporale's knowledge vault — systems thinking, AI alignment, and craft.
 
-Notes are the author's own writing, verbatim except privacy redactions. Fetch only the notes relevant to your question rather than loading everything. Each entry has a primary link and a raw-markdown [mirror] — if one fails to fetch, use the other.
+Notes are the author's own writing, verbatim except privacy redactions. Fetch only the notes relevant to your question rather than loading everything. Each entry has a primary link and a raw-markdown [mirror] — if one fails to fetch, use the other. If individual note fetches fail on both, fetch the whole collection in one request: https://mvacaporale.github.io/lodestone-wiki/llms-full.txt
 
 ## Notes
 
